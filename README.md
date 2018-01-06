@@ -53,7 +53,7 @@ Step 5: From the "subsetData"" in step 4, create a second, independent tidy data
   
 FINAL STEP: Create A TidyData CODEBOOK and a tidy data text file
 -------------------------------------------------------------
-  Then tidyData will be convertend into a data set, dsTidyData so that a codebook, "CodeBook.md" can be generated, as well as a table created of dsTidyData in text format, "TidyData.txt".
+  Then tidyData will be converted into a data set, dsTidyData so that a codebook, "CodeBook.md" can be generated, as well as a tidy output created of tidyData by gathring and flattening the mean data and writing it out in text format to, "TidyData.txt".
 
 
 

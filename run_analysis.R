@@ -218,18 +218,24 @@ tidyData <- tbl_df(subsetData) %>%
   group_by(Subject, Activity) %>%
   summarize_all(mean)
 
-# Create a codebook and a data file of "tidyData".
-library(memisc)
+# Create a data file of "tidyData".
+library(tidyr) # for the tidy data file
+
+tidy_gather <- gather(tidyData, key = "measurement", value = "mean", 3:68)
+
+# write tidyTable data to a text file
+write.table(tidy_gather, "TidyData.txt", row.names = FALSE)
+
+# Create a CodeBook of "tidyData"
+
+library(memisc) # for the codebook
 
 # We need a data.set for this
 dsTidy<-data.set(tidyData, check.names = FALSE)
 
-# write tidyTable data to a text file
-write.table(dsTidy, "TidyData.txt", row.names = FALSE)
 # write a description file (not used)
 Write(description(dsTidy), file="TidyData-desc.txt")
 # generate the codebook
 Write(codebook(dsTidy), file="CodeBook.md")
-
 
 
