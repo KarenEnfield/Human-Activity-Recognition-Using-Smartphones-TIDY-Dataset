@@ -1,10 +1,10 @@
-=============================================================================================
+================================================================================================
 
    tidyData.Subject 'Subject ID number'
 
    "Subjects being tested are each given an id number."
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: integer
    Measurement: interval
@@ -18,16 +18,16 @@
 
    Remark:
 
-       The experiments have been carried out with a group of 30 volunteers within an
-       age bracket of 19-48 years.
+       The experiments have been carried out with a group of 30 volunteers within an age
+       bracket of 19-48 years.
 
-=============================================================================================
+================================================================================================
 
    tidyData.Activity 'Activity Type'
 
    "Activity the subjects were performing while being measured."
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: integer
    Measurement: nominal
@@ -44,18 +44,18 @@
    Remark:
 
        Each person performed six activities (WALKING, WALKING_UPSTAIRS,
-       WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung
-       Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we
-       captured 3-axial linear acceleration and 3-axial angular velocity at a constant
-       rate of 50Hz.
+       WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy
+       S II) on the waist. Using its embedded accelerometer and gyroscope, we captured
+       3-axial linear acceleration and 3-axial angular velocity at a constant rate of
+       50Hz.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAcc-mean()-X 'Accelerometer Body Acceleration, 3-axial (Time): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -70,18 +70,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAcc-mean()-Y 'Accelerometer Body Acceleration, 3-axial (Time): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -96,18 +96,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAcc-mean()-Z 'Accelerometer Body Acceleration, 3-axial (Time): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -122,19 +122,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAcc-std()-X 'Accelerometer Body Acceleration, 3-axial (Time): Standard
    Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -149,19 +149,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAcc-std()-Y 'Accelerometer Body Acceleration, 3-axial (Time): Standard
    Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -176,19 +176,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAcc-std()-Z 'Accelerometer Body Acceleration, 3-axial (Time): Standard
    Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -203,18 +203,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tGravityAcc-mean()-X 'Accelerometer Gravity, 3-axial (Time): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -229,19 +229,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
    tidyData.tGravityAcc-mean()-Y 'Accelerometer Gravity, 3-axial (Time): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -256,19 +256,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
    tidyData.tGravityAcc-mean()-Z 'Accelerometer Gravity, 3-axial (Time): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -283,20 +283,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tGravityAcc-std()-X 'Accelerometer Gravity, 3-axial (Time): Standard Deviation
-   X'
+   tidyData.tGravityAcc-std()-X 'Accelerometer Gravity, 3-axial (Time): Standard Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -311,20 +310,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tGravityAcc-std()-Y 'Accelerometer Gravity, 3-axial (Time): Standard Deviation
-   Y'
+   tidyData.tGravityAcc-std()-Y 'Accelerometer Gravity, 3-axial (Time): Standard Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -339,20 +337,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tGravityAcc-std()-Z 'Accelerometer Gravity, 3-axial (Time): Standard Deviation
-   Z'
+   tidyData.tGravityAcc-std()-Z 'Accelerometer Gravity, 3-axial (Time): Standard Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -367,19 +364,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerk-mean()-X 'Accelerometer Angular Velocity, 3-axial (Time): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -394,18 +391,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerk-mean()-Y 'Accelerometer Angular Velocity, 3-axial (Time): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -420,18 +417,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerk-mean()-Z 'Accelerometer Angular Velocity, 3-axial (Time): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -446,19 +443,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerk-std()-X 'Accelerometer Angular Velocity, 3-axial (Time): Standard
    Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -473,19 +470,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerk-std()-Y 'Accelerometer Angular Velocity, 3-axial (Time): Standard
    Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -500,19 +497,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerk-std()-Z 'Accelerometer Angular Velocity, 3-axial (Time): Standard
    Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -527,18 +524,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyro-mean()-X 'Gyroscope Body Acceleration, 3-axial (Time): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -553,16 +550,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyro-mean()-Y 'Gyroscope Body Acceleration, 3-axial (Time): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -577,16 +574,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyro-mean()-Z 'Gyroscope Body Acceleration, 3-axial (Time): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -601,17 +598,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tBodyGyro-std()-X 'Gyroscope Body Acceleration, 3-axial (Time): Standard
-   Deviation X'
+   tidyData.tBodyGyro-std()-X 'Gyroscope Body Acceleration, 3-axial (Time): Standard Deviation
+   X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -626,17 +623,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tBodyGyro-std()-Y 'Gyroscope Body Acceleration, 3-axial (Time): Standard
-   Deviation Y'
+   tidyData.tBodyGyro-std()-Y 'Gyroscope Body Acceleration, 3-axial (Time): Standard Deviation
+   Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -651,17 +648,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tBodyGyro-std()-Z 'Gyroscope Body Acceleration, 3-axial (Time): Standard
-   Deviation Z'
+   tidyData.tBodyGyro-std()-Z 'Gyroscope Body Acceleration, 3-axial (Time): Standard Deviation
+   Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -676,16 +673,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerk-mean()-X 'Gyroscope Angular Velocity, 3-axial (Time): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -700,16 +697,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerk-mean()-Y 'Gyroscope Angular Velocity, 3-axial (Time): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -724,16 +721,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerk-mean()-Z 'Gyroscope Angular Velocity, 3-axial (Time): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -748,17 +745,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerk-std()-X 'Gyroscope Angular Velocity, 3-axial (Time): Standard
    Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -773,17 +770,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerk-std()-Y 'Gyroscope Angular Velocity, 3-axial (Time): Standard
    Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -798,17 +795,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerk-std()-Z 'Gyroscope Angular Velocity, 3-axial (Time): Standard
    Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -823,16 +820,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccMag-mean() 'Accelerometer Body Acceleration, Filtered (Time): Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -847,19 +844,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccMag-std() 'Accelerometer Body Acceleration, Filtered (Time): Standard
    Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -874,18 +871,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tGravityAccMag-mean() 'Accelerometer Gravity, Filtered (Time): Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -900,20 +897,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
-   tidyData.tGravityAccMag-std() 'Accelerometer Gravity, Filtered (Time): Standard
-   Deviation'
+   tidyData.tGravityAccMag-std() 'Accelerometer Gravity, Filtered (Time): Standard Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -928,19 +924,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity. To account for low frequency
        gravitational force, a filter with 0.3 Hz cutoff frequency was used
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerkMag-mean() 'Accelerometer Angular Velocity, Filtered (Time): Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -955,19 +951,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyAccJerkMag-std() 'Accelerometer Angular Velocity, Filtered (Time): Standard
    Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -982,18 +978,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroMag-mean() 'Gyroscope Body Acceleration, Filtered (Time): Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1008,17 +1004,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroMag-std() 'Gyroscope Body Acceleration, Filtered (Time): Standard
    Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1033,16 +1029,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerkMag-mean() 'Gyroscope Angular Velocity, Filtered (Time): Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1057,17 +1053,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.tBodyGyroJerkMag-std() 'Gyroscope Angular Velocity, Filtered (Time): Standard
    Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1082,16 +1078,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyAcc-mean()-X 'Accelerometer Body Acceleration, 3-axial (Frequency): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1106,18 +1102,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyAcc-mean()-Y 'Accelerometer Body Acceleration, 3-axial (Frequency): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1132,18 +1128,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyAcc-mean()-Z 'Accelerometer Body Acceleration, 3-axial (Frequency): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1158,19 +1154,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyAcc-std()-X 'Accelerometer Body Acceleration, 3-axial (Frequency): Standard
    Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1185,19 +1181,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyAcc-std()-Y 'Accelerometer Body Acceleration, 3-axial (Frequency): Standard
    Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1212,19 +1208,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyAcc-std()-Z 'Accelerometer Body Acceleration, 3-axial (Frequency): Standard
    Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1239,19 +1235,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccJerk-mean()-X 'Accelerometer Angular Velocity, 3-axial (Frequency): Mean
-   X'
+   tidyData.fBodyAccJerk-mean()-X 'Accelerometer Angular Velocity, 3-axial (Frequency): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1266,19 +1261,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccJerk-mean()-Y 'Accelerometer Angular Velocity, 3-axial (Frequency): Mean
-   Y'
+   tidyData.fBodyAccJerk-mean()-Y 'Accelerometer Angular Velocity, 3-axial (Frequency): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1293,19 +1287,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccJerk-mean()-Z 'Accelerometer Angular Velocity, 3-axial (Frequency): Mean
-   Z'
+   tidyData.fBodyAccJerk-mean()-Z 'Accelerometer Angular Velocity, 3-axial (Frequency): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1320,19 +1313,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccJerk-std()-X 'Accelerometer Angular Velocity, 3-axial (Frequency):
-   Standard Deviation X'
+   tidyData.fBodyAccJerk-std()-X 'Accelerometer Angular Velocity, 3-axial (Frequency): Standard
+   Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1347,19 +1340,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccJerk-std()-Y 'Accelerometer Angular Velocity, 3-axial (Frequency):
-   Standard Deviation Y'
+   tidyData.fBodyAccJerk-std()-Y 'Accelerometer Angular Velocity, 3-axial (Frequency): Standard
+   Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1374,19 +1367,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccJerk-std()-Z 'Accelerometer Angular Velocity, 3-axial (Frequency):
-   Standard Deviation Z'
+   tidyData.fBodyAccJerk-std()-Z 'Accelerometer Angular Velocity, 3-axial (Frequency): Standard
+   Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1401,18 +1394,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyGyro-mean()-X 'Gyroscope Body Acceleration, 3-axial (Frequency): Mean X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1427,16 +1420,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyGyro-mean()-Y 'Gyroscope Body Acceleration, 3-axial (Frequency): Mean Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1451,16 +1444,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyGyro-mean()-Z 'Gyroscope Body Acceleration, 3-axial (Frequency): Mean Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1475,17 +1468,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyGyro-std()-X 'Gyroscope Body Acceleration, 3-axial (Frequency): Standard
    Deviation X'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1500,17 +1493,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyGyro-std()-Y 'Gyroscope Body Acceleration, 3-axial (Frequency): Standard
    Deviation Y'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1525,17 +1518,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyGyro-std()-Z 'Gyroscope Body Acceleration, 3-axial (Frequency): Standard
    Deviation Z'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1550,17 +1543,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccMag-mean() 'Accelerometer Body Acceleration, Filtered (Frequency) :
-   Mean'
+   tidyData.fBodyAccMag-mean() 'Accelerometer Body Acceleration, Filtered (Frequency) : Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1575,19 +1567,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyAccMag-std() 'Accelerometer Body Acceleration, Filtered (Frequency) :
-   Standard Deviation'
+   tidyData.fBodyAccMag-std() 'Accelerometer Body Acceleration, Filtered (Frequency) : Standard
+   Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1602,19 +1594,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyBodyAccJerkMag-mean() 'Accelerometer Angular Velocity, Filtered (Frequency)
-   : Mean'
+   tidyData.fBodyBodyAccJerkMag-mean() 'Accelerometer Angular Velocity, Filtered (Frequency) :
+   Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1629,19 +1621,19 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyBodyAccJerkMag-std() 'Accelerometer Angular Velocity, Filtered (Frequency)
-   : Standard Deviation'
+   tidyData.fBodyBodyAccJerkMag-std() 'Accelerometer Angular Velocity, Filtered (Frequency) :
+   Standard Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1656,19 +1648,18 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window). The sensor acceleration signal, which has
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window). The sensor acceleration signal, which has
        gravitational and body motion components, was separated using a Butterworth
        low-pass filter into body acceleration and gravity.
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyBodyGyroMag-mean() 'Gyroscope Body Acceleration, Filtered (Frequency) :
-   Mean'
+   tidyData.fBodyBodyGyroMag-mean() 'Gyroscope Body Acceleration, Filtered (Frequency) : Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1683,17 +1674,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyBodyGyroMag-std() 'Gyroscope Body Acceleration, Filtered (Frequency) :
    Standard Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1708,17 +1699,16 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
-   tidyData.fBodyBodyGyroJerkMag-mean() 'Gyroscope Anglar Velocity Filtered (Frequency):
-   Mean'
+   tidyData.fBodyBodyGyroJerkMag-mean() 'Gyroscope Anglar Velocity Filtered (Frequency): Mean'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1733,17 +1723,17 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
-=============================================================================================
+================================================================================================
 
    tidyData.fBodyBodyGyroJerkMag-std() 'Gyroscope Anglar Velocity Filtered (Frequency):
    Standard Deviation'
 
    "Sensor measurement features are normalized and bounded within [-1,1]"
 
----------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
    Storage mode: double
    Measurement: interval
@@ -1758,6 +1748,6 @@
    Remark:
 
        The sensor signals (accelerometer and gyroscope) were pre-processed by applying
-       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and
-       50% overlap (128 readings/window).
+       noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50%
+       overlap (128 readings/window).
 
